@@ -63,3 +63,7 @@ Visualization is not included in the current implementation.
 Technologies Used
 Python
 Pandas
+
+Generative AI (ChatGPT) was used as a learning and support tool during the development of this project. AI assistance was used to help clarify statistical concepts, guide the implementation of data merging and analysis in Pandas, and refine documentation wording.
+
+All code was reviewed, tested, and understood before submission. The final implementation, analysis, and interpretations reflect my own understanding of the project requirements.
